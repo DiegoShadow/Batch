@@ -1,0 +1,1 @@
+start chrome https://www.microsoft.com/pt-br/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab
